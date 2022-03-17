@@ -1,0 +1,15 @@
+If you want to contribute in other's project.
+Then follow the below steps - 
+
+a. fork their project into your account
+b. then configure the ssh keys (to do this  - follow the readme file of this project only)
+c. clone that repo from your github account only =  git clone repo_link (ssh wala link)
+d. make changes whatever you want to. and commit them.
+e. git push
+f. compare and pull request option aayega.
+g. In that, choose the account/branches wisely before clicking on "Create Pull Request". ( Just don't blindly click on "Create Pull Request").
+h. And that's it. PR is raised and this PR will be visible to author.
+
+
+You'll be wondering, why we forked it in step a.
+Because you can't directly raise the PR for other's repro. That's why, we forked it first.
