@@ -20,3 +20,4 @@ And then go to github->settings->ssh-keys- > new ssh key
 And then and give any title and then in next dabba -> just paste your ssh key that you copied.
 
 
+then you can clone your project using ssh-keys
